@@ -23,6 +23,10 @@ Remote Sensing (RS) image captioning has traditionally relied on specialized mod
 </p>
 
 ## Results
+To evaluate RAGCap, we utilize three well-known benchmark RS datasets [xx]: Sydney, UCM, and NWPU Each image in these datasets is paired with five manually annotated captions. The Sydney dataset consists of 613 images, divided into 483 for training and 130 for testing. The UCM dataset includes 1,680 training images and 210 testing images. The NWPU dataset, the largest among them, contains 31,500 images, split into 25,200 for training and 6,300 for testing, with spatial resolutions ranging from 0.2 to 30 meters. 
+We evaluate the method using standard captioning metrics, including BLEU (Bilingual Evaluation Understudy), ROUGE (Recall-Oriented Understudy for Gisting Evaluation), CIDEr (Consensus-based Image Description Evaluation), and SPICE (Semantic Propositional Image Captioning Evaluation). BLEU measures the precision of n-grams in the generated captions compared to the reference captions, focusing on word overlap. ROUGE emphasizes recall by evaluating phrase, n-gram, and sequence overlaps between generated and reference captions. CIDEr assesses the semantic relevance of captions using TF-IDF (Term Frequency-Inverse Document Frequency) weighted n-grams, rewarding captions that are both accurate and diverse. Finally, SPICE evaluates the semantic structure by comparing objects, attributes, and relationships in the captions, offering a deeper analysis of caption meaning beyond simple word matches. 
+
+
 <p align="center">
   <img width="600" src="https://github.com/BigData-KSU/RAGCap/blob/main/Results_Table.png" alt="Results Table">
 </p>
