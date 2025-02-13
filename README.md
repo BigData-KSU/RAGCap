@@ -10,8 +10,7 @@
 -
 - [Abstract](#Abstract)
 - [Architecture](#architecture)
-- [Dataset](dataset)
-- [Acknowledgements](#acknowledgements)
+- [Results](Results)
 - [Citation](#citation)
 
 ---
@@ -25,4 +24,11 @@ Remote Sensing (RS) image captioning has traditionally relied on specialized mod
 
 
 
-## Code & Usage
+## Results
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/BigData-KSU/RAGCap/main/Results_Table.png" alt="RAGCap Architectural Overview">
+</p>
+
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/BigData-KSU/RAGCap/main/Results_Graph.png" alt="RAGCap Architectural Overview">
+</p>
