@@ -10,7 +10,7 @@
 -
 - [Abstract](#Abstract)
 - [Architecture](#Architecture)
-- [Results](Results)
+- [Results](#Results)
 - [Citation](#citation)
 
 ---
