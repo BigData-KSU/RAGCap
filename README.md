@@ -9,7 +9,7 @@
 ## Content 📒
 -
 - [Abstract](#Abstract)
-- [Architecture](#architecture)
+- [Architecture](#Architecture)
 - [Results](Results)
 - [Citation](#citation)
 
