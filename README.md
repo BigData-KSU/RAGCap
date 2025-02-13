@@ -1,7 +1,7 @@
 # RAGCap: Retrieval-Augmented Generation for Remote Sensing Image Captioning
 
  Yakoub Bazi, Mohamad M. Al Rahhal, Mansour Zuair
-[[Paper](https://www.mdpi.com/2072-4292/16/9/1477)] [[RAGCap]] [[Dataset]] 
+[[Paper]()] [[RAGCap]] [[Dataset]] 
 
 
 <br>
@@ -20,7 +20,7 @@ Remote Sensing (RS) image captioning has traditionally relied on specialized mod
 
 ## Architecture
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/BigData-KSU/StyleRAG/main/assets/methodology_graph.png" alt="RAGCap Architectural Overview">
+  <img width="600" src="https://raw.githubusercontent.com/BigData-KSU/StyleRAG/main/assets/methodology_graph..png" alt="RAGCap Architectural Overview">
 </p>
 
 
