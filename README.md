@@ -31,3 +31,5 @@ Remote Sensing (RS) image captioning has traditionally relied on specialized mod
   <img width="600" src="https://github.com/BigData-KSU/RAGCap/blob/main/Results_Graph.png" alt="Results Graph">
 </p>
 
+## Citation
+Coming soon
