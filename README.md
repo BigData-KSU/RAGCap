@@ -7,7 +7,6 @@
 <br>
 
 ## Content 📒
--
 - [Abstract](#Abstract)
 - [Architecture](#Architecture)
 - [Results](#Results)
