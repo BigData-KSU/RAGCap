@@ -1,6 +1,7 @@
 # RAGCap: Retrieval-Augmented Generation for Remote Sensing Image Captioning
 
  Yakoub Bazi, Mohamad M. Al Rahhal, Mansour Zuair
+ 
 [[Paper]()] [[RAGCap]] [[Dataset]] 
 
 
