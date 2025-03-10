@@ -18,17 +18,7 @@
     DOI: 10.36227/techrxiv.174140786.66325581/v1
   </a>
 </p>
-<p>
-  <a href="https://www.techrxiv.org/users/879731/articles/1274474-ragcap-retrieval-augmented-generation-for-style-aware-remote-sensing-image-captioning-without-fine-tuning?commit=2ba368c4b9de06be4576e38300bfdcd87a3056dc">
-    [Paper]
-  </a>
-  <a href="https://www.techrxiv.org/users/879731/articles/1274474-ragcap-retrieval-augmented-generation-for-style-aware-remote-sensing-image-captioning-without-fine-tuning?commit=2ba368c4b9de06be4576e38300bfdcd87a3056dc">
-    [RAGCap]
-  </a>
-  <a href="https://www.techrxiv.org/users/879731/articles/1274474-ragcap-retrieval-augmented-generation-for-style-aware-remote-sensing-image-captioning-without-fine-tuning?commit=2ba368c4b9de06be4576e38300bfdcd87a3056dc">
-    [Dataset]
-  </a>
-</p>
+
 
 ---
 ## Abstract
