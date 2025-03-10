@@ -13,6 +13,23 @@
 - [Results](#Results)
 - [Citation](#citation)
 
+<p>
+  <a href="https://www.techrxiv.org/users/879731/articles/1274474-ragcap-retrieval-augmented-generation-for-style-aware-remote-sensing-image-captioning-without-fine-tuning?commit=2ba368c4b9de06be4576e38300bfdcd87a3056dc">
+    DOI: 10.36227/techrxiv.174140786.66325581/v1
+  </a>
+</p>
+<p>
+  <a href="https://www.techrxiv.org/users/879731/articles/1274474-ragcap-retrieval-augmented-generation-for-style-aware-remote-sensing-image-captioning-without-fine-tuning?commit=2ba368c4b9de06be4576e38300bfdcd87a3056dc">
+    [Paper]
+  </a>
+  <a href="https://www.techrxiv.org/users/879731/articles/1274474-ragcap-retrieval-augmented-generation-for-style-aware-remote-sensing-image-captioning-without-fine-tuning?commit=2ba368c4b9de06be4576e38300bfdcd87a3056dc">
+    [RAGCap]
+  </a>
+  <a href="https://www.techrxiv.org/users/879731/articles/1274474-ragcap-retrieval-augmented-generation-for-style-aware-remote-sensing-image-captioning-without-fine-tuning?commit=2ba368c4b9de06be4576e38300bfdcd87a3056dc">
+    [Dataset]
+  </a>
+</p>
+
 ---
 ## Abstract
 Remote Sensing (RS) image captioning has traditionally relied on specialized models tailored to domain-specific tasks. The emergence of large vision-language models (VLMs) offers a promising alternative due to their versatility across tasks and domains. However, fine-tuning VLMs for specific applications introduces significant challenges, including computational overhead, overfitting risks, and reduced generalization capabilities. To address these limitations, we propose RAGCap a Retrieval-Augmented Generation framework that leverages pre-trained VLMs for RS captioning without the need for fine-tuning. Our approach employs a similarity-based retrieval model (SigLIP) to identify relevant image-caption pairs from the training set. These retrieved examples, along with the test image, are processed by a multi-image capable VLM (Qwen2VL) using a carefully designed prompt structure. This enables the model to generate captions that not only accurately describe the test image but also preserve the domain-specific style. Extensive evaluations on three RS benchmark datasets demonstrate that RAGCap achieves competitive performance compared to fine-tuned models while offering enhanced efficiency and generalization. Our framework provides a practical and scalable solution, maintaining the versatility of VLMs while effectively adapting to domain-specific requirements
