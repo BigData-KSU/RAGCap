@@ -36,4 +36,5 @@ We evaluate the method using standard captioning metrics, including BLEU (Biling
 </p>
 
 ## Citation
-Coming soon
+Yakoub Bazi, Mohamad M. Al Rahhal, Mansour Zuair. RAGCap: Retrieval-Augmented Generation for Style-Aware Remote Sensing Image Captioning Without Fine-Tuning. TechRxiv. March 08, 2025.
+DOI: 10.36227/techrxiv.174140786.66325581/v1
